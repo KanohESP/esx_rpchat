@@ -1,2 +1,4 @@
 # esx_rpchat
-This is a rpchat for PvP servers FiveM 
+ESX_rpchat
+FiveM
+Coded by Kanoh
